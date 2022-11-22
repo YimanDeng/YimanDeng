@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YimanDeng
 - 🌱 I’m currently a sophomore studying CS at Stanford University
-- 👀 I’m interested in cool algorithms and CS theory
-- 💞️ I’m like learning in Codeforces :)
+- 👀 I’m interested in cool algorithms
+- 💞️ I like learning in Codeforces :)
 - 📫 How to reach me yimandeng0711@gmail.com
 
 <!---
