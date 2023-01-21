@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YimanDeng
 - 🌱 I’m currently a sophomore studying CS at Stanford University
 - 💞️ I like learning cool algorithms in Codeforces :) I upload accepted answers for some problems
-- 📫 How to reach me yimandeng0711@gmail.com
+- 📫 How to reach me yiman@stanford.edu
 
 <!---
 YimanDeng/YimanDeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
