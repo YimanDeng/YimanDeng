@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YimanDeng
 - 🌱 I’m currently a sophomore studying CS at Stanford University
-- 💞️ I like learning cool algorithms in Codeforces :) I upload accepted answers for some problems
+- 💞️ I like to code, sort of.
 - 📫 How to reach me yiman@stanford.edu
 
 <!---
